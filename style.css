@@ -1,0 +1,9 @@
+div {
+  box-sizing: border-box;
+  padding: 16px;
+  width: 100%;
+  background-color: lightblue;
+}
+li{
+  cursor: pointer;
+}
